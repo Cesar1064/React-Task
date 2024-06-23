@@ -1,0 +1,12 @@
+.segment-horizontal-inactive {
+  background-color: rgb(48, 48, 48);
+  width: 100px;
+  height: 20px;
+  border-radius: 100px;
+}
+.segment-horizontal-active {
+  background-color: rgb(127, 255, 42);
+  width: 100px;
+  height: 20px;
+  border-radius: 100px;
+}

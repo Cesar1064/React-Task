@@ -1,0 +1,11 @@
+.first-task-container {
+  display: flex;
+  align-items: center;
+  place-content: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+form input {
+  width: 40px;
+}

@@ -1,0 +1,12 @@
+section {
+  display: flex;
+  justify-content: space-between;
+}
+article {
+  width: 120px;
+}
+article div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

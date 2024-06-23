@@ -1,0 +1,12 @@
+.segment-vertical-inactive {
+  background-color: rgb(48, 48, 48);
+  width: 20px;
+  height: 100px;
+  border-radius: 100px;
+}
+.segment-vertical-active {
+  background-color: rgb(127, 255, 42);
+  width: 20px;
+  height: 100px;
+  border-radius: 100px;
+}
